@@ -1,0 +1,2 @@
+# so-easily
+npm
