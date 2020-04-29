@@ -1,0 +1,16 @@
+{
+  "name": "so-easily",
+  "version": "1.0.5",
+  "description": "tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/er345ssdlh/so-easily.git",
+  "author": "er345ssdlh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/er345ssdlh/so-easily/issues"
+  },
+  "homepage": "https://github.com/er345ssdlh/so-easily#readme"
+}
